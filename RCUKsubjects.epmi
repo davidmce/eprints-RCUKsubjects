@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<epm xmlns='http://eprints.org/ep2/data/2.0' id='http://c4d.kodachi.arts.gla.ac.uk/id/epm/RCUKsubjects'>
+  <epmid>RCUKsubjects</epmid>
+  <uri>http://c4d.kodachi.arts.gla.ac.uk/id/epm/RCUKsubjects</uri>
+  <documents>
+    <document>
+      <files>
+        <file>
+          <filename>plugins/EPrints/Plugin/Screen/EPMC/RCUKsubjects.pm</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>0a94712368d4a9246579fd70fc998903</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>1941</filesize>
+        </file>
+      </files>
+      <mime_type>text/plain</mime_type>
+      <format>text</format>
+      <main>plugins/EPrints/Plugin/Screen/EPMC/RCUKsubjects.pm</main>
+      <content>install</content>
+    </document>
+  </documents>
+  <version>1.0.0</version>
+  <controller>EPMC::RCUKsubjects</controller>
+  <creators>
+    <item>
+      <name>
+        <family>McElroy</family>
+        <given>David</given>
+      </name>
+      <id>David.McElroy@Glasgow.ac.uk</id>
+    </item>
+  </creators>
+  <title>RCUKsubjects</title>
+  <description>Attempt to speed up development using bazaar package for RCUK subjects</description>
+</epm>

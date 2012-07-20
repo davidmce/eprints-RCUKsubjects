@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<epm xmlns='http://eprints.org/ep2/data/2.0' id='http://c4d.kodachi.arts.gla.ac.uk/id/epm/RCUKsubjects'>
+  <epmid>RCUKsubjects</epmid>
+  <uri>http://c4d.kodachi.arts.gla.ac.uk/id/epm/RCUKsubjects</uri>
+  <documents>
+    <document>
+      <files>
+        <file>
+          <filename>plugins/EPrints/Plugin/Screen/EPMC/RCUKsubjects.pm</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>0a94712368d4a9246579fd70fc998903</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>1941</filesize>
+          <data encoding='base64'>cGFja2FnZSBFUHJpbnRzOjpQbHVnaW46OlNjcmVlbjo6RVBNQzo6UkNVS3N1YmplY3RzOwoKQElT
+QSA9ICggJ0VQcmludHM6OlBsdWdpbjo6U2NyZWVuOjpFUE1DJyApOwoKdXNlIHN0cmljdDsKCnN1
+YiBuZXcKewogICAgICBteSggJGNsYXNzLCAlcGFyYW1zICkgPSBAXzsKCiAgICAgIG15ICRzZWxm
+ID0gJGNsYXNzLT5TVVBFUjo6bmV3KCAlcGFyYW1zICk7CgogICAgICAkc2VsZi0+e2FjdGlvbnN9
+ID0gW3F3KCBlbmFibGUgZGlzYWJsZSApXTsKICAgICAgJHNlbGYtPntkaXNhYmxlfSA9IDA7ICMg
+YWx3YXlzIGVuYWJsZWQsIGV2ZW4gaW4gbGliL3BsdWdpbnMKCiAgICAgICRzZWxmLT57cGFja2Fn
+ZV9uYW1lfSA9ICJSQ1VLc3ViamVjdHMiOwoKICAgICAgcmV0dXJuICRzZWxmOwp9Cgo9aXRlbSAk
+c2NyZWVuLT5hY3Rpb25fZW5hYmxlKCBbIFNLSVBfUkVMT0FEIF0gKQoKRW5hYmxlIHRoZSBMPEVQ
+cmludHM6OkRhdGFPYmo6OkVQTT4gZm9yIHRoZSBjdXJyZW50IHJlcG9zaXRvcnkuCgpJZiBTS0lQ
+X1JFTE9BRCBpcyB0cnVlIHdpbGwgbm90IHJlbG9hZCB0aGUgcmVwb3NpdG9yeSBjb25maWd1cmF0
+aW9uLgoKPWN1dAoKc3ViIGFjdGlvbl9lbmFibGUKewogICAgICBteSggJHNlbGYsICRza2lwX3Jl
+bG9hZCApID0gQF87CgogICAgICAkc2VsZi0+U1VQRVI6OmFjdGlvbl9lbmFibGUoICRza2lwX3Jl
+bG9hZCApOwoKICAgICAgbXkgJHJlcG8gPSAkc2VsZi0+e3JlcG9zaXRvcnl9OwoKICAgICAgbXkg
+JHhtbCA9ICcKPHdvcmtmbG93IHhtbG5zPSJodHRwOi8vZXByaW50cy5vcmcvZXAzL3dvcmtmbG93
+IiB4bWxuczplcGM9Imh0dHA6Ly9lcHJpbnRzLm9yZy9lcDMvY29udHJvbCI+CiAgICAgICAgPHN0
+YWdlIG5hbWU9InN1YmplY3RzIj4KICAgICAgICAgPGVwYzppZiB0ZXN0PSJ0eXBlID0gXCdkYXRh
+c2V0XCciPgogICAgICAgIDxjb21wb25lbnQgdHlwZT0iRmllbGQ6OlN1YmplY3QiPjxmaWVsZCBy
+ZWY9IlJDVUtzdWJqZWN0cyIgcmVxdWlyZWQ9InllcyIgLz48L2NvbXBvbmVudD4KICAgICAgICA8
+L2VwYzppZj4KICAgICAgICA8Y29tcG9uZW50IHR5cGU9IkZpZWxkOjpTdWJqZWN0Ij48ZmllbGQg
+cmVmPSJzdWJqZWN0cyIgcmVxdWlyZWQ9Im5vIiAvPjwvY29tcG9uZW50PgoKICAgICAgICA8L3N0
+YWdlPgo8L3dvcmtmbG93PgonOwoKICAgICAgbXkgJGZpbGVuYW1lID0gJHJlcG8tPmNvbmZpZygg
+ImNvbmZpZ19wYXRoIiApLiIvd29ya2Zsb3dzL2VwcmludC9kZWZhdWx0LnhtbCI7CgogICAgICBF
+UHJpbnRzOjpYTUw6OmFkZF90b194bWwoICRmaWxlbmFtZSwgJHhtbCwgJHNlbGYtPntwYWNrYWdl
+X25hbWV9ICk7CgogICAgICAkc2VsZi0+cmVsb2FkX2NvbmZpZyBpZiAhJHNraXBfcmVsb2FkOwp9
+Cgo9aXRlbSAkc2NyZWVuLT5hY3Rpb25fZGlzYWJsZSggWyBTS0lQX1JFTE9BRCBdICkKCkRpc2Fi
+bGUgdGhlIEw8RVByaW50czo6RGF0YU9iajo6RVBNPiBmb3IgdGhlIGN1cnJlbnQgcmVwb3NpdG9y
+eS4KCklmIFNLSVBfUkVMT0FEIGlzIHRydWUgd2lsbCBub3QgcmVsb2FkIHRoZSByZXBvc2l0b3J5
+IGNvbmZpZ3VyYXRpb24uCgo9Y3V0CgpzdWIgYWN0aW9uX2Rpc2FibGUKewogICAgICBteSggJHNl
+bGYsICRza2lwX3JlbG9hZCApID0gQF87CgogICAgICAkc2VsZi0+U1VQRVI6OmFjdGlvbl9kaXNh
+YmxlKCAkc2tpcF9yZWxvYWQgKTsKICAgICAgbXkgJHJlcG8gPSAkc2VsZi0+e3JlcG9zaXRvcnl9
+OwoKICAgICAgbXkgJGZpbGVuYW1lID0gJHJlcG8tPmNvbmZpZyggImNvbmZpZ19wYXRoIiApLiIv
+d29ya2Zsb3dzL2VwcmludC9kZWZhdWx0LnhtbCI7CiAKICAgICAgRVByaW50czo6WE1MOjpyZW1v
+dmVfcGFja2FnZV9mcm9tX3htbCggJGZpbGVuYW1lLCAkc2VsZi0+e3BhY2thZ2VfbmFtZX0gKTsK
+ICAgICAgCiAgICAgICRzZWxmLT5yZWxvYWRfY29uZmlnIGlmICEkc2tpcF9yZWxvYWQ7Cgp9Cgox
+OwoK
+</data>
+        </file>
+      </files>
+      <mime_type>text/plain</mime_type>
+      <format>text</format>
+      <main>plugins/EPrints/Plugin/Screen/EPMC/RCUKsubjects.pm</main>
+      <content>install</content>
+    </document>
+  </documents>
+  <version>1.0.0</version>
+  <controller>EPMC::RCUKsubjects</controller>
+  <creators>
+    <item>
+      <name>
+        <family>McElroy</family>
+        <given>David</given>
+      </name>
+      <id>David.McElroy@Glasgow.ac.uk</id>
+    </item>
+  </creators>
+  <title>RCUKsubjects</title>
+  <description>Attempt to speed up development using bazaar package for RCUK subjects</description>
+</epm>
