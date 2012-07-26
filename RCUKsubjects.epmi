@@ -6,6 +6,13 @@
     <document>
       <files>
         <file>
+          <filename>epm/RCUKsubjects/cfg/cfg.d/RCUKsubjects.pl</filename>
+          <mime_type>application/x-symlink</mime_type>
+          <hash>1ce60e8ad8341a1397ffa10f66ba931a</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>17</filesize>
+        </file>
+        <file>
           <filename>plugins/EPrints/Plugin/Screen/EPMC/RCUKsubjects.pm</filename>
           <mime_type>application/x-symlink</mime_type>
           <hash>0a94712368d4a9246579fd70fc998903</hash>
