@@ -7,7 +7,7 @@
       <files>
         <file>
           <filename>plugins/EPrints/Plugin/Screen/EPMC/RCUKsubjects.pm</filename>
-          <mime_type>text/plain</mime_type>
+          <mime_type>application/x-symlink</mime_type>
           <hash>0a94712368d4a9246579fd70fc998903</hash>
           <hash_type>MD5</hash_type>
           <filesize>1941</filesize>
@@ -49,8 +49,8 @@ OwoK
 </data>
         </file>
       </files>
-      <mime_type>text/plain</mime_type>
-      <format>text</format>
+      <mime_type>application/x-symlink</mime_type>
+      <format>other</format>
       <main>plugins/EPrints/Plugin/Screen/EPMC/RCUKsubjects.pm</main>
       <content>install</content>
     </document>
