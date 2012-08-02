@@ -1,1 +1,1 @@
-$c->{plugins}{"Screen::EPMC::RCUKsubjects"}{prams}{disable} = 0;
+$c->{plugins}{"Screen::EPMC::RCUKsubjects"}{params}{disable} = 0;

@@ -8,9 +8,9 @@
         <file>
           <filename>epm/RCUKsubjects/cfg/cfg.d/RCUKsubjects.pl</filename>
           <mime_type>application/x-symlink</mime_type>
-          <hash>1ce60e8ad8341a1397ffa10f66ba931a</hash>
+          <hash>7107c826706463f42dc6b99760bb2b69</hash>
           <hash_type>MD5</hash_type>
-          <filesize>17</filesize>
+          <filesize>66</filesize>
         </file>
         <file>
           <filename>plugins/EPrints/Plugin/Screen/EPMC/RCUKsubjects.pm</filename>
