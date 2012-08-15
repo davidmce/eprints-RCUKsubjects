@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE phrases SYSTEM "entities.dtd">
+<epp:phrases xmlns="http://www.w3.org/1999/xhtml" xmlns:epp="http://eprints.org/ep3/phrase" xmlns:epc="http://eprints.org/ep3/control">
+
+  <!-- This file is used to add phrases from the phrase editor screen -->
+
+<epp:phrase id="Plugin/InputForm/Component/Field/Subject:RCUKsubjects_search_bar">
+	<div class="ep_subjectinput_searchbar">Search for RCUK Classification Subject: 
+		<epc:pin name="input"/> 
+		<epc:pin name="search_button"/> 
+		<epc:pin name="clear_button"/>
+	</div>
+</epp:phrase>
+
+
+</epp:phrases>

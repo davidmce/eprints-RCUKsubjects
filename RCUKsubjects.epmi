@@ -13,17 +13,45 @@
           <filesize>66</filesize>
         </file>
         <file>
+          <filename>epm/RCUKsubjects/cfg/lang/en/phrases/RCUKsubjects.xml</filename>
+          <mime_type>application/x-symlink</mime_type>
+          <hash>446eb0379ee4ab60e802bd24f73f32b5</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>606</filesize>
+        </file>
+        <file>
           <filename>plugins/EPrints/Plugin/Screen/EPMC/RCUKsubjects.pm</filename>
           <mime_type>application/x-symlink</mime_type>
-          <hash>0a94712368d4a9246579fd70fc998903</hash>
+          <hash>bbe420ec6d319a75deaed8c5ac445d47</hash>
           <hash_type>MD5</hash_type>
-          <filesize>1941</filesize>
+          <filesize>1975</filesize>
+        </file>
+        <file>
+          <filename>static/images/epm/RCUKsubjects.png</filename>
+          <mime_type>image/png</mime_type>
+          <hash>c632c31e758a0f0378974c24805d7b35</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>179283</filesize>
         </file>
       </files>
-      <mime_type>application/x-symlink</mime_type>
-      <format>other</format>
-      <main>plugins/EPrints/Plugin/Screen/EPMC/RCUKsubjects.pm</main>
+      <mime_type>image/png</mime_type>
+      <format>image</format>
+      <main>static/images/epm/RCUKsubjects.png</main>
       <content>install</content>
+    </document>
+    <document>
+      <files>
+        <file>
+          <filename>static/images/epm/RCUKsubjects.png</filename>
+          <mime_type>image/png</mime_type>
+          <hash>c632c31e758a0f0378974c24805d7b35</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>179283</filesize>
+        </file>
+      </files>
+      <format>image</format>
+      <main>static/images/epm/RCUKsubjects.png</main>
+      <content>coverimage</content>
     </document>
   </documents>
   <version>1.0.0</version>
@@ -39,4 +67,5 @@
   </creators>
   <title>RCUKsubjects</title>
   <description>Attempt to speed up development using bazaar package for RCUK subjects</description>
+  <icon>images/epm/RCUKsubjects.png</icon>
 </epm>
