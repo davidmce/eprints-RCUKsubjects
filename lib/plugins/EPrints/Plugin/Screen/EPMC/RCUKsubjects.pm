@@ -1,8 +1,8 @@
 package EPrints::Plugin::Screen::EPMC::RCUKsubjects;
 
-@ISA = ( 'EPrints::Plugin::Screen::EPMC' );
-
 use strict;
+use EPrints::Plugin::Screen::EPMC;
+@ISA = ( 'EPrints::Plugin::Screen::EPMC' );
 
 sub new
 {
