@@ -23,3 +23,13 @@ push @{$c->{browse_views}}, (
 		],
 	},
 );
+
+push @{$c->{fields}->{eprint}},
+	{
+		name => "RCUKsubjects",
+		type => "subject",
+		multiple => 0,
+		top => "RCUKsubjects",
+		browes_link => "RCUKsubjects",
+};
+

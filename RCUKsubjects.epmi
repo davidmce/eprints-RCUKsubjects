@@ -8,16 +8,16 @@
         <file>
           <filename>epm/RCUKsubjects/cfg/cfg.d/zz_RCUKsubjects.pl</filename>
           <mime_type>application/x-symlink</mime_type>
-          <hash>62c49141db4ff36b90079f0e2375340b</hash>
+          <hash>378fa794ea9dc7bc78a6627f41e08b85</hash>
           <hash_type>MD5</hash_type>
-          <filesize>448</filesize>
+          <filesize>610</filesize>
         </file>
         <file>
           <filename>epm/RCUKsubjects/cfg/lang/en/phrases/RCUKsubjects.xml</filename>
           <mime_type>application/x-symlink</mime_type>
-          <hash>446eb0379ee4ab60e802bd24f73f32b5</hash>
+          <hash>0107db3fd76d3e80a24deba970a0d6a1</hash>
           <hash_type>MD5</hash_type>
-          <filesize>606</filesize>
+          <filesize>685</filesize>
         </file>
         <file>
           <filename>plugins/EPrints/Plugin/Screen/EPMC/RCUKsubjects.pm</filename>
