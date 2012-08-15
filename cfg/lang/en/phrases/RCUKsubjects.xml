@@ -13,5 +13,5 @@
 </epp:phrase>
 
 <epp:phrase id="viewname_eprint_RCUKsubjects">RCUK Classification</epp:phrase>
-
+<epp:phrase id="eprint_fieldname_RCUKsubjects">RCUK Classification</epp:phrase>
 </epp:phrases>

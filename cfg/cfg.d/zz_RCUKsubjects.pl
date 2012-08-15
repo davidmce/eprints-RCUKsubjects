@@ -29,7 +29,7 @@ push @{$c->{fields}->{eprint}},
 		name => "RCUKsubjects",
 		type => "subject",
 		multiple => 0,
-		top => "RCUKsubjects",
+		top => "rcuksubjects",
 		browes_link => "RCUKsubjects",
 };
 
