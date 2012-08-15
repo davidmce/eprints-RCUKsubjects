@@ -34,7 +34,7 @@ sub action_enable
 
       my $repo = $self->{repository};
 
-      my $xml = '
+      my $xml1 = '
 <workflow xmlns="http://eprints.org/ep3/workflow" xmlns:epc="http://eprints.org/ep3/control">
         <stage name="subjects">
          <epc:if test="type = \'dataset\'">
@@ -46,10 +46,27 @@ sub action_enable
 </workflow>
 ';
 
-      my $filename = $repo->config( "config_path" )."/workflows/eprint/default.xml";
+=cut	my $xml2 = '
+<?xml version="1.0" standalone="no"?>
+<ul id="ep_tm_menu_browse" style="display:none;">
+	<li>
+              <a href="{$config{http_url}}/view/RCUK_subjects/">
+                <epc:phrase ref="bin/generate_views:indextitleprefix"/>
+                <epc:phrase ref="viewname_eprint_RCUK_subjects"/>
+              </a>
+	</li>
+</ul>
+';
+=cut
 
-      EPrints::XML::add_to_xml( $filename, $xml, $self->{package_name} );
+      my $filename1 = $repo->config( "config_path" )."/workflows/eprint/default.xml";
+=cut      my $filename2 = $repo->config( "config_path" )."/templates/default.xml";
+=cut
 
+
+	EPrints::XML::add_to_xml( $filename1, $xml1, $self->{package_name} );
+=cut	EPrints::XML::add_to_xml( $filename2, $xmlx2, $self->{package_name} );
+=cut
       $self->reload_config if !$skip_reload;
 }
 

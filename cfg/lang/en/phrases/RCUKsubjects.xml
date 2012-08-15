@@ -14,4 +14,8 @@
 
 <epp:phrase id="viewname_eprint_RCUKsubjects">RCUK Classification</epp:phrase>
 <epp:phrase id="eprint_fieldname_RCUKsubjects">RCUK Classification</epp:phrase>
+
+<epp:phrase id="eprint_fieldhelp_RCUKsubjects">Please select at least one main RCUK subject classification that are are appropriate for your submission, from the list below.</epp:phrase>
+
+
 </epp:phrases>

@@ -15,16 +15,16 @@
         <file>
           <filename>epm/RCUKsubjects/cfg/lang/en/phrases/RCUKsubjects.xml</filename>
           <mime_type>application/x-symlink</mime_type>
-          <hash>501b211996fea5d945f033a4343ba413</hash>
+          <hash>602066154c08f6fc22abbbd4bceac8b4</hash>
           <hash_type>MD5</hash_type>
-          <filesize>764</filesize>
+          <filesize>954</filesize>
         </file>
         <file>
           <filename>plugins/EPrints/Plugin/Screen/EPMC/RCUKsubjects.pm</filename>
           <mime_type>application/x-symlink</mime_type>
-          <hash>bbe420ec6d319a75deaed8c5ac445d47</hash>
+          <hash>254aaa884a03ae1c8a2f34fb5c9fa5fc</hash>
           <hash_type>MD5</hash_type>
-          <filesize>1975</filesize>
+          <filesize>2499</filesize>
         </file>
         <file>
           <filename>static/images/epm/RCUKsubjects.png</filename>
