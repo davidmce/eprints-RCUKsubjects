@@ -6,11 +6,11 @@
     <document>
       <files>
         <file>
-          <filename>epm/RCUKsubjects/cfg/cfg.d/RCUKsubjects.pl</filename>
+          <filename>epm/RCUKsubjects/cfg/cfg.d/zz_RCUKsubjects.pl</filename>
           <mime_type>application/x-symlink</mime_type>
-          <hash>761a96573c574d1bb67a0ed4e17efca1</hash>
+          <hash>62c49141db4ff36b90079f0e2375340b</hash>
           <hash_type>MD5</hash_type>
-          <filesize>454</filesize>
+          <filesize>448</filesize>
         </file>
         <file>
           <filename>epm/RCUKsubjects/cfg/lang/en/phrases/RCUKsubjects.xml</filename>
