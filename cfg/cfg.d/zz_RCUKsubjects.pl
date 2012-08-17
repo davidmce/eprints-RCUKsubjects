@@ -24,12 +24,27 @@ push @{$c->{browse_views}}, (
 	},
 );
 
-push @{$c->{fields}->{eprint}},
-	{
-		name => "RCUKsubjects",
-		type => "subject",
-		multiple => 0,
-		top => "rcuksubjects",
-		browes_link => "RCUKsubjects",
+#
+#push @{$c->{fields}->{eprint}},
+#	{
+#		name => "RCUKsubjects",
+#		type => "subject",
+#		multiple => 0,
+#		top => "rcuksubjects",
+#		browes_link => "RCUKsubjects",
+#};
+
+
+
+
+$c->{datasets}->{eprint_RCUKsubject} = {
+        class => 'EPrints::DataObj::RCUKsubjects',
+        sqlname => 'RCUKsubjects',
+        datestamp => 'start',
+     #   columns => [qw( title )],
+      #  index => 1,
+      #  import => 1,
+
+
 };
 

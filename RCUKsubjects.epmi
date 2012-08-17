@@ -22,9 +22,9 @@
         <file>
           <filename>plugins/EPrints/Plugin/Screen/EPMC/RCUKsubjects.pm</filename>
           <mime_type>application/x-symlink</mime_type>
-          <hash>254aaa884a03ae1c8a2f34fb5c9fa5fc</hash>
+          <hash>963cad55d246d336363798da71fbc382</hash>
           <hash_type>MD5</hash_type>
-          <filesize>2499</filesize>
+          <filesize>2387</filesize>
         </file>
         <file>
           <filename>static/images/epm/RCUKsubjects.png</filename>
